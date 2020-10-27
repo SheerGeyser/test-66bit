@@ -19,7 +19,8 @@ const WordStyle = styled.p`
   font-size: 3em;
   font-weight: bold;
 
-  color: #548dd5;
+  color: #0984e3;
+  text-shadow: -2px 3px 0px #74b9ff;
   
   opacity: 1;
 	animation-name: ${fadeInOpacity};

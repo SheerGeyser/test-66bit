@@ -1,3 +1,5 @@
+![Текст тестового задания](https://github.com/SheerGeyser/test-66bit/blob/main/task%20text.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
